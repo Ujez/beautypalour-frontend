@@ -6,3 +6,7 @@
 .swiper-wrapper{
     width: 20%;
 }
+
+html{
+    scroll-behavior: smooth;
+}
